@@ -1,6 +1,6 @@
 # Olá, eu sou o Percio Andrade (aka sr00t3d) 👋
 
-### SysAdmin | Cybersecurity Specialist | Fullstack Developer | DevSecOps
+### SysAdmin | Cybersecurity Specialist | Developer | Security | Pivoting to CyberSecurity
 
 Especialista com mais de 10 anos de experiência em infraestrutura crítica e desenvolvimento. Minha expertise transita entre o alto ao baixo nível de suporte e a arquitetura de SaaS modernos como o **Evolya**. Especialista em automação, migrações complexas e defesa cibernética.
 
