@@ -34,7 +34,7 @@ Contact: contato@perciocastelo.com.br · [LinkedIn](https://linkedin.com/in/perc
 - 🌐 [BindFilter](https://perciocastelo.com.br/projetos/br/bind-filter.html): bloqueio de abusos em BIND9/DNS
 - 🛡️ [NEXUS](https://perciocastelo.com.br/projetos/br/?categoria=NEXUS&tier=all): plataforma open source e self-hosted de orquestração de IA, automação e SecOps. PHP puro + MySQL, roda em hospedagem compartilhada (cPanel/DirectAdmin) ou Docker; 90 plugins (SIEM, OSINT, Threat Intel, Trivy, Semgrep, Nuclei, Gitleaks, DevOps, DevSecOps, ITIL, Gestão etc), nós Linux via Bash, API REST e servidor MCP
 
-  Diversos outros em: https://github.com/sr00t3d?tab=repositories
+  Diversos outros em: [https://perciocastelo.com.br/projetos/br/?tier=all](https://perciocastelo.com.br/projetos/br/?tier=all)
 
 ## Projetos paralelos
 [Evolya](https://evolya.com.br) (plataforma educacional) · [CV Evolya](https://cv.evolya.com.br) (construtor de currículos com IA)
