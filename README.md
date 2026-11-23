@@ -32,7 +32,7 @@ Contact: contato@perciocastelo.com.br · [LinkedIn](https://linkedin.com/in/perc
 - 🔎 [LinTriage](https://perciocastelo.com.br/projetos/br/lin-triage-linux-incident-response.html): triagem forense automatizada em Linux (Bash)
 - 🕷️ [EncFind](https://perciocastelo.com.br/projetos/br/encfind-malware-webshell-scanner.html): scanner de webshells
 - 🌐 [BindFilter](https://perciocastelo.com.br/projetos/br/bind-filter.html): bloqueio de abusos em BIND9/DNS
-- 🛡️ [NEXUS](https://perciocastelo.com.br/projetos/br/?categoria=NEXUS&tier=all): orquestrador de defesa ativa (SIEM, Threat Intel, DevSecOps)
+- 🛡️ [NEXUS](https://perciocastelo.com.br/projetos/br/?categoria=NEXUS&tier=all): plataforma open source e self-hosted de orquestração de IA, automação e SecOps. PHP puro + MySQL, roda em hospedagem compartilhada (cPanel/DirectAdmin) ou Docker; 90 plugins (SIEM, OSINT, Threat Intel, Trivy, Semgrep, Nuclei, Gitleaks, DevOps, DevSecOps, ITIL, Gestão etc), nós Linux via Bash, API REST e servidor MCP
 
   Diversos outros em: https://github.com/sr00t3d?tab=repositories
 
